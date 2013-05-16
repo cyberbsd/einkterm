@@ -1,3 +1,5 @@
+Found it's a good example to start eink FrameBuffer hacking on KOBO Wifi similar device.
+Such as GREENBOOK GB60820 from Taiwan.
 This is a terminal for iRiver Story EB02 (probably will work on EB03) ebook reader.
 Currently it has a very limited set of features (text write and read only) and no support for any ESC-seq.
 
